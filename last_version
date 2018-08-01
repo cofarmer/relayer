@@ -1,0 +1,11 @@
+ 
+{ 
+	"app_name":"N3000",  
+	"update_date":"2015-11-12",  
+	"version_name":"V2.2.20",  
+	"version_num":20,  
+	"pack_position":"N3000_C",  
+	"pack_name":"Upgrade.exe",  
+	"pack_md5":"E578FF6E6D1B9AE1363C485EF3B6F87B",  
+	"update_note":"update config file"  
+} 
